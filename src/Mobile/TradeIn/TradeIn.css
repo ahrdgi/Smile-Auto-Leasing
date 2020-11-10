@@ -1,0 +1,53 @@
+.MobileTradeIn {
+    background-color: #eeeeee;
+}
+
+.MobileTradeInDetails {
+    display: inline-block;
+    color: #ffcf34;
+}
+
+.MobileTradeInDetailsHeading {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.MobileTradeInDetailsDescription {
+    font-size: 15px;
+    width: 90%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.MobileTradeInFormContainer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 1000px;
+    background-color: #f3f3f3;
+    border: none;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.MobileTradeInForm {
+    height: 1000px;
+    border: none;
+    overflow: hidden;
+}
+
+.MobileTradeInBackground {
+    background: url("../../assets/bg2.jpg");
+    padding-bottom: 0px;
+}
+
+.MobileTradeInLegal {
+    color: #ffcf34;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 90%;
+    font-size: 16px;
+    padding-bottom: 1px;
+}

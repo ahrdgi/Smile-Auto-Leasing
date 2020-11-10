@@ -1,0 +1,40 @@
+.Mobile {
+    min-width: 196px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.MobileHeader {
+    display: block;
+    height: 48px;
+    background-color: #3c3976;
+    border-bottom: 12px solid #ffcf34;
+}
+
+.MobileLogo {
+    float: left;
+    padding-left: 10px;
+    padding-top: 9px;
+}
+
+.MobileMenuContainer {
+    padding-top: 3px;
+}
+
+.MobileMenu {
+    fill: #ffcf34;
+    float: right;
+    position: relative;
+}
+
+.MobileLinkContainer {
+    display: block;
+    position: relative;
+    width: 100%;
+    top: -4px;
+    background-color: #ffcf34;
+    z-index: 5;
+    overflow: hidden;
+}

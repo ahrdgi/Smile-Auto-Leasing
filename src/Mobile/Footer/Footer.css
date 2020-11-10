@@ -1,0 +1,89 @@
+.MobileFooter {
+    border-top: 12px solid #ffcf34;
+    background-color: #1f1f1f;
+    color: #605e5e;
+    vertical-align: bottom;
+}
+
+.MobileFooterTitleContainer {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.MobileFooterTitle {
+    display: inline-block;
+    text-align: left;
+    font-size: 16px;
+    color: #a9a9a9;
+    font-weight: 900;
+}
+
+.MobileFooterSubTitle {
+    margin-top: 0px;
+    display: inline-block;
+    text-align: left;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    font-weight: 400;
+    color: #a9a9a9;
+}
+
+.MobileCopyright {
+    margin-top: 0px;
+}
+
+.MobileCopyrightDivider {
+    filter: opacity(28%);
+    -webkit-filter: opacity(28%);
+    -moz-filter: opacity(28%);
+}
+
+.MobileCopyrightText {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+
+.MobileContactLinksContainer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.MobileContactLinks {
+    display: inline-block;
+    text-align: left;
+}
+
+.MobileEmailText {
+    display: inline;
+    text-decoration: none;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #a9a9a9;
+    position: relative;
+    top: -10px;
+}
+
+.MobileMapsText {
+    display: inline;
+    text-decoration: none;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #a9a9a9;
+    position: relative;
+    top: -10px;
+}
+
+.MobilePhoneText {
+    display: inline;
+    text-decoration: none;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #a9a9a9;
+    position: relative;
+    top: -10px;
+}

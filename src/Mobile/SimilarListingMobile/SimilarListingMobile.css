@@ -1,0 +1,71 @@
+.MobileSimilarListing {
+    display: block;
+    border: 3px solid;
+    border-color: #ffcf34;
+    width: 306px;
+    height: 347px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 24px;
+    top: 330px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.01);
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.MobileSimilarListingImage {
+    height: 226px;
+    border-radius: 10px;
+}
+
+.MobileSimilarListingDivider {
+    background-color: #ffcf34;
+    position: relative;
+    width: 306px;
+    height: 12px;
+    margin-top: -15px;
+
+}
+
+.MobileSimilarListingInfo {
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 900;
+    color: #3c3976;
+    width: 306px;
+    padding-left: 19px;
+    padding-right: 19px;
+    margin-top: -18px;
+}
+
+.MobileSimilarListingFrom {
+    font-size: 15px;
+    color: #000000;
+    font-weight: 400;
+    margin-top: -18px;
+}
+
+.MobileSimilarListingPrice {
+    font-size: 21px;
+    color: #000000;
+    font-weight: 400;
+    margin-top: -10px;
+}
+
+.MobileSimilarListingDetails {
+    display: table-cell;
+    vertical-align: middle;
+    text-decoration: none;
+    text-align: center;
+    background-color: #3c3976;
+    border-radius: 10px;
+    color: #ffcf34;
+    width: 104px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 900;
+    position: relative;
+    left: 161px;
+    top: -60px;
+}

@@ -1,0 +1,143 @@
+.MobileHomeHeader {
+    border-bottom: 12px solid #ffcf34;
+}
+
+.MobileHomeHeaderText {
+    font-size: 32px;
+    font-weight: 900;
+    color: #ffcf34;
+    margin-top: -150px;
+}
+
+.MobileHomeHeaderSubText {
+    font-size: 25px;
+    font-weight: 900;
+    color: #ffcf34;
+}
+
+.MobileHomeButtons {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -200px;
+    top: 88px;
+}
+
+.MobileInvButton {
+    background-color: #ffcf34;
+    width: 45%;
+    height: 200px;
+    display: inline-block;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    cursor: pointer;
+    vertical-align: top;
+    text-decoration: none;
+}
+
+.MobileInvText {
+    margin-top: 50px;
+    color: #222222;
+    font-size: 160%;
+    font-weight: 700;
+}
+
+.MobileTradeButton {
+    background-color: #3c3976;
+    width: 45%;
+    height: 200px;
+    display: inline-block;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    cursor: pointer;
+    vertical-align: top;
+}
+
+.MobileTradeText {
+    color: #eeeeee;
+    font-size: 160%;
+    font-weight: 700;
+    margin-top: 50px;
+}
+
+.MobileLinkArrow {
+    height: 60px;
+    position: relative;
+
+}
+
+.MobileDealsSection {
+    background-color: #eeeeee;
+}
+
+.MobileDealsHeading {
+    display: block;
+    padding-top: 120px;
+    font-weight: 900;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 32px;
+}
+
+.MobileDealsSubHeading {
+    display: block;
+    margin-top: 0px;
+    font-weight: 700;
+    color: #a9a9a9;
+}
+
+.MobileHomeListings {
+    min-height: 1131px;
+}
+
+.MobileAboutSection {
+    background-color: #e6e6e6;
+}
+
+.MobileWhySmileTitle {
+    padding-top: 20px;
+    margin-top: 0px;
+    font-size: 35px;
+    font-weight: 900;
+    color: #3c3976;
+}
+
+.MobileWhyTable {
+    border-spacing: 50px 5px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 10px;
+}
+
+.MobileCreditSection {
+    background-color: #3c3976;
+}
+
+.MobileCreditHeading {
+    color: #ffcf34;
+    padding-top: 20px;
+    margin-top: 0px;
+    font-weight: 900;
+    font-size: 20px;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.MobileHomeFooterText {
+    font-size: 25px;
+    color: #ffcf34;
+    font-weight: 900;
+}
+
+.HIDDEN {
+    display: none;
+}
+
+.SHOWN {
+    display: initial;
+}

@@ -1,0 +1,59 @@
+.MobileSubscribeBackground {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+    background-color: #1f1b28;
+    opacity: 0.7;
+}
+
+.MobileSubscribeContainer {
+    position: fixed;
+    z-index: 6;
+    width: 95%;
+    padding-bottom: 20px;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: #f3f3f3;
+}
+
+.MobileThanksText {
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.MobileSubscribeContent {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.MobileSubscribeTitle {
+    font-size: 25px;
+    margin-top: 40px;
+    color: #3c3976;
+}
+
+.MobileSubscribeLabel {
+    display: block;
+    font-size: 20px;
+}
+
+.MobileSubscribeInput {
+    padding-left: 10px;
+    font-size: 18px;
+    display: inline-block;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    vertical-align: middle;
+}

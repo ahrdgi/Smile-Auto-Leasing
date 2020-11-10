@@ -1,0 +1,60 @@
+.SubscribeBackground {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    background-color: #1f1b28;
+    opacity: 0.7;
+}
+
+.SubscribeContainer {
+    position: fixed;
+    z-index: 3;
+    width: 640px;
+    height: 240px;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: #f3f3f3;
+}
+
+.ThanksText {
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+.SubscribeContent {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.SubscribeTitle {
+    font-size: 35px;
+    color: #3c3976;
+}
+
+.SubscribeLabel {
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.SubscribeInput {
+    padding-left: 10px;
+    font-size: 18px;
+    display: inline-block;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    vertical-align: middle;
+}

@@ -1,0 +1,68 @@
+.LeaseTermination {
+    background-image: url("../../assets/bg2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: 20%;
+}
+
+.LeaseTerminationHeader {
+    border-bottom: 12px solid #ffcf34;
+}
+
+.Heading {
+    color: #ffffff;
+    font-size: 77px;
+    font-weight: 700;
+    position: relative;
+    top: 3px;
+}
+
+.SubHeading {
+    color: #adadad;
+    font-size: 28px;
+    font-weight: 900;
+    position: relative;
+    top: -60px;
+}
+
+.LeaseTerminationDetails {
+    display: inline-block;
+    color: #ffcf34;
+    margin-top: -100px;
+    margin-bottom: 50px;
+}
+
+.LeaseTerminationDetailsHeading {
+    font-size: 55px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.LeaseTerminationDetailsDescriptionHeading {
+    text-align: left;
+    font-size: 31px;
+    font-weight: 700;
+    margin-top: 0px;
+}
+
+.LeaseTerminationDetailsDescription {
+    font-size: 16px;
+    width: 979px;
+    text-align: left;
+}
+
+.LeaseTerminationFormContainer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+    height:1200px;
+    background-color: #f3f3f3;
+    border: none;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.LeaseTerminationForm {
+    border: none;
+    overflow: hidden;
+}

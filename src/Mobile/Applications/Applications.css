@@ -1,0 +1,140 @@
+.MobileApplications {
+    display: block;
+    width: 100%;
+    background-color: #eeeeee;
+}
+
+.MobileHeading {
+    color: #ffffff;
+    font-size: 30px;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    font-weight: 700;
+    position: relative;
+    margin-top: 0px;
+}
+
+.MobileSubHeading {
+    color: #adadad;
+    font-size: 13px;
+    font-weight: 900;
+    position: relative;
+    margin-top: -20px;
+}
+
+.MobileDescription {
+    color: #ffffff;
+    font-size: 13px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: 0px;
+}
+
+.MobileApplicationsHeader {
+    border-bottom: 12px solid #ffcf34;
+}
+
+.MobileApplicationsWhyContainer {
+    margin-top: 20px;
+    display: table;
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.MobileApplicationsWhyTable {
+    border-spacing: 0px 0px;
+}
+
+.MobileApplicationsWhyTitle {
+    font-size: 23px;
+    font-weight: 700;
+    color: #adadad;
+}
+
+.MobileApplicationsWhyDesc {
+    text-align: center;
+    font-size: 16px;
+    width: 180px;
+}
+
+.MobileAppHeading {
+    display: block;
+    font-size: 32px;
+    font-weight: 700;
+    color: #3c3976;
+    position: relative;
+    top: 20px;
+    margin-bottom: 40px;
+}
+
+.MobileApplicationsLinkBoxContainer {
+    vertical-align: top;
+    width: 100%;
+}
+
+.MobileAppButtons {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    position: relative;
+    top: -225px;
+    margin-bottom: -200px;
+}
+
+.MobilePersonalButton {
+    background-color: #ffcf34;
+    width: 45%;
+    height: 200px;
+    display: inline-block;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    cursor: pointer;
+    vertical-align: top;
+}
+
+.MobileBusinessButton {
+    background-color: #3c3976;
+    width: 45%;
+    height: 200px;
+    display: inline-block;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    cursor: pointer;
+    vertical-align: top;
+}
+
+.MobilePersonalText {
+    color: #3c3976;
+    font-size: 160%;
+    font-weight: 700;
+}
+
+.MobileBusinessText {
+    color: #ffcf34;
+    font-size: 160%;
+    font-weight: 700;
+}
+
+.MobilePersonalImage {
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+.MobileBusinessImage {
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+.MobileApplicationsLegal {
+    width: 90%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15px;
+    margin-bottom: 0px;
+}

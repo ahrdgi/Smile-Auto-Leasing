@@ -1,0 +1,19 @@
+.MobileGallery {
+    background-color: #eeeeee;
+}
+
+.MobileInstagramContainer {
+    display: inline-block;
+    background-color: #f2f2f2;
+    min-height: 605px;
+    width: 100%;
+}
+
+.MobileInstagramFeedContainer {
+    display: inline-block;
+    width: 90%;
+    border-radius: 25px;
+    background-color: #dddddd;
+    overflow: hidden;
+    margin-bottom: 50px;
+}

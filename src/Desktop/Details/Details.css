@@ -1,0 +1,246 @@
+.DetailsBackground {
+    background-image: url("../../assets/bg2.jpg");
+    background-size: cover;
+    height: 100%;
+}
+.DetailsBody {
+    width: 1008px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 2367px;
+}
+
+.DetailsHeader {
+    display: inline-block;
+    height: 115px;
+    width: 949px;
+    background-color: #3c3976;
+    border-left: 59px solid;
+    border-color: #ffcf34;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.DetailsHeaderText {
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 45px;
+    color: #ffcf34;
+}
+
+.DetailsPriceMatch {
+    position: relative;
+    margin-top: -105px;
+    margin-right: 15px;
+    text-align: right;
+    color: #ffcf34;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.image-gallery {
+    display: inline-block;
+    vertical-align: top;
+    width: 640px;
+    border-radius: 10px;
+    overflow: visible;
+}
+
+.image-gallery-slides {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.image-gallery-thumbnail {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.DetailsInfoContainer {
+    display: inline-block;
+}
+.DetailsInfoHeader {
+    display: block;
+    background-color: #ffcf34;
+    width: 368px;
+    height: 41px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.DetailsInfoHeaderText {
+    color: #3c3976;
+    font-size: 20px;
+    font-weight: 900;
+    display: inline-block;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+}
+
+.DetailsInfo {
+    display: block;
+    background-color: #3c3976;
+    width: 368px;
+    height: 145px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.DetailsInfoTable {
+    width: 368px;
+    font-size: 20px;
+    color: #ffcf34;
+}
+
+.DetailsInfoLeft {
+    padding: 10px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.DetailsInfoRight {
+    padding: 10px;
+    text-align: right;
+}
+
+.DetailsQuote {
+    display: inline-block;
+    width: 368px;
+    background-color: #3c3976;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.DetailsQuoteHeader {
+    width: 368px;
+    height: 41px;
+    background-color: #ffcf34;
+}
+
+.DetailsQuoteHeaderText {
+    font-size: 20px;
+    font-weight: 900;
+    display: inline-block;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+
+    color: #3c3976;
+}
+
+.DetailsQuoteForm {
+    display: inline-block;
+    height: 460px;
+}
+
+.DetailsDescriptionContainer {
+    display: block;
+    width: 1008px;
+    height: 360px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: -3px;
+}
+
+.DetailsDescriptionHeader1 {
+    display: inline-block;
+    width: 640px;
+    height: 41px;
+    background-color: #ffcf34;
+}
+
+.DetailsDescriptionHeader2 {
+    display: inline-block;
+    width: 368px;
+    height: 41px;
+    background-color: #ffcf34;
+}
+
+.DetailsDescriptionHeaderText {
+    font-size: 20px;
+    color: #3c3976;
+    font-weight: 900;
+    display: inline-block;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+}
+
+.DetailsDescriptionText {
+    display: inline-block;
+    background-color: #3c3976;
+    margin-top: -2px;
+    width: 640px;
+    height: 360px;
+}
+
+.DetailsDescriptionTextBox{
+    display: inline-block;
+    background-color: #3c3976;
+    color: #ffcf34;
+    text-align: left;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 7px 10px;
+    width: 95%;
+    height: 100%;
+}
+
+.DetailsDescriptionSpecs {
+    display: inline-block;
+    background-color: #3c3976;
+    margin-top: -2px;
+    width: 368px;
+    height: 360px;
+}
+
+.DetailsSpecs {
+    font-size: 20px;
+    width: 100%;
+    color: #ffcf34;
+}
+
+.DetailsSpecsLeft {
+    text-align: left;
+    padding: 10px 10px;
+    padding-bottom: 25px;
+}
+
+.DetailsSpecsRight {
+    padding: 10px;
+    padding-bottom: 25px;
+    text-align: right;
+}
+
+.DetailsSimilarVehicles {
+    display: block;
+}
+
+.DetailsSimilarVehiclesHeader {
+    margin-top: 10px;
+    display: block;
+    color: #ffcf34;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+.DetailsSimilarVehiclesLink {
+    color: #ffcf34;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 10px;
+    position: relative;
+    top: -65px;
+    left: 280px;
+}
+
+.DetailsSimilarListings {
+    margin-top: -40px;
+    text-align: left;
+    min-height: 1131px;
+}

@@ -1,0 +1,303 @@
+.MobileGalleryContainer {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.image-gallery-mobile {
+    vertical-align: top;
+    width: 100%;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+}
+
+.image-gallery-mobile-slide img {
+    width: 100%;
+    height: 281px;
+}
+
+.image-gallery-mobile-slide-wrapper bottom {
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.image-gallery-mobile-slides {
+    width: 100%;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+    overflow: hidden;
+}
+
+.image-gallery-mobile-thumbnail {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -o-border-radius: 10px;
+    -ms-border-radius: 10px;
+    width: 65px;
+    height: 48px;
+    overflow: hidden;
+}
+
+.image-gallery-mobile-thumbnails-wrapper {
+    overflow: hidden;
+}
+
+.image-gallery-mobile-thumbnails {
+    width: 100%;
+    padding-left: 50px;
+    padding-right: -50px;
+    margin-right: -50px;
+    overflow: hidden;
+}
+
+.image-gallery-mobile-thumbnail img {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    height: 48px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.MobileDetailsBackground {
+    background-image: url("../../assets/bg2.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.MobileDetailsBody {
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 1000px;
+    width: 100%;
+}
+
+.MobileDetailsHeader {
+    display: inline-block;
+    height: 65px;
+    width: -webkit-calc(100% - 30px);
+    width:    -moz-calc(100% - 30px);
+    width:         calc(100% - 30px);
+    background-color: #3c3976;
+    border-left: 30px solid;
+    border-color: #ffcf34;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    position: relative;
+}
+
+.MobileDetailsHeaderText {
+    display: block;
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 25px;
+    color: #ffcf34;
+}
+
+.MobileDetailsInfoContainer {
+    display: inline-block;
+    width: 100%;
+}
+.MobileDetailsInfoHeader {
+    display: block;
+    background-color: #ffcf34;
+    width: 100%;
+    height: 41px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.MobileDetailsInfoHeaderText {
+    color: #3c3976;
+    font-size: 20px;
+    font-weight: 900;
+    display: inline-block;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+}
+
+.MobileDetailsInfo {
+    display: block;
+    background-color: #3c3976;
+    width: 100%;
+    height: 145px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.MobileDetailsInfoTable {
+    width: 100%;
+    font-size: 20px;
+    color: #ffcf34;
+}
+
+.MobileDetailsInfoLeft {
+    padding: 10px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.MobileDetailsInfoRight {
+    padding: 10px;
+    text-align: right;
+}
+
+.MobileDetailsQuote {
+    display: inline-block;
+    width: 100%;
+    background-color: #3c3976;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.MobileDetailsQuoteHeader {
+    width: 100%;
+    height: 41px;
+    background-color: #ffcf34;
+}
+
+.MobileDetailsQuoteHeaderText {
+    font-size: 20px;
+    font-weight: 900;
+    display: inline-block;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+
+    color: #3c3976;
+}
+
+.MobileDetailsQuoteForm {
+    display: inline-block;
+    height: 460px;
+}
+
+.MobileDetailsDescriptionContainer {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+}
+
+.MobileDetailsDescriptionHeader1 {
+    display: block;
+    width: 100%;
+    height: 41px;
+    background-color: #ffcf34;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.MobileDetailsDescriptionHeader2 {
+    display: block;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    width: 100%;
+    height: 41px;
+    background-color: #ffcf34;
+}
+
+.MobileDetailsDescriptionHeaderText {
+    font-size: 20px;
+    color: #3c3976;
+    font-weight: 900;
+    display: inline-block;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+}
+
+.MobileDetailsDescriptionText {
+    display: block;
+    background-color: #3c3976;
+    margin-top: -2px;
+    width: 100%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    overflow: hidden;
+}
+
+.MobileDetailsDescriptionTextBox{
+    display: block;
+    background-color: #3c3976;
+    color: #ffcf34;
+    text-align: left;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 7px 10px;
+    width: 95%;
+    height: 100%;
+}
+
+.MobileDetailsDescriptionSpecs {
+    display: block;
+    background-color: #3c3976;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    overflow: hidden;
+    margin-top: -2px;
+    width: 100%;
+}
+
+.MobileDetailsSpecs {
+    font-size: 20px;
+    width: 100%;
+    color: #ffcf34;
+}
+
+.MobileDetailsSpecsLeft {
+    text-align: left;
+    padding: 10px 10px;
+    padding-bottom: 25px;
+}
+
+.MobileDetailsSpecsRight {
+    padding: 10px;
+    padding-bottom: 25px;
+    text-align: right;
+}
+
+.MobileDetailsSimilarVehicles {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.MobileDetailsSimilarVehiclesHeader {
+    margin-top: 10px;
+    display: block;
+    color: #ffcf34;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.MobileDetailsSimilarVehiclesLink {
+    display: block;
+    color: #ffcf34;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: -30px;
+}
+
+.MobileDetailsSimilarListings {
+    margin-top: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    min-height: 1131px;
+    overflow: hidden;
+}

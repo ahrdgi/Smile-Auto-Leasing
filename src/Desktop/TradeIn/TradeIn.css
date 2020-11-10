@@ -1,0 +1,71 @@
+.TradeInHeader {
+    border-bottom: 12px solid #ffcf34;
+}
+
+.Heading {
+    color: #ffffff;
+    font-size: 77px;
+    font-weight: 700;
+    position: relative;
+    top: 3px;
+}
+
+.SubHeading {
+    color: #adadad;
+    font-size: 28px;
+    font-weight: 900;
+    position: relative;
+    top: -60px;
+}
+
+.Description {
+    color: #ffffff;
+    font-size: 18px;
+    min-width: 979px;
+    max-width: 979px;
+    text-align: left;
+    position: relative;
+    top: -18px;
+}
+
+.TradeInDetails {
+    display: inline-block;
+    color: #ffcf34;
+    margin-top: -67px;
+}
+
+.TradeInDetailsHeading {
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.TradeInDetailsDescription {
+    font-size: 18px;
+    width: 979px;
+    text-align: left;
+    margin-top: -30px;
+}
+
+.TradeInFormContainer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+    height:1200px;
+    background-color: #f3f3f3;
+    border: none;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.TradeInForm {
+    border: none;
+    overflow: hidden;
+}
+
+.TradeInLegal {
+    color: #ffcf34;
+    margin-left: auto;
+    margin-right: auto;
+    width: 640px;
+    font-size: 18px;
+}

@@ -1,0 +1,67 @@
+.Desktop {
+    margin: auto;
+    text-align: center;
+    min-width: 1000px;
+    font-family: 'Lato', sans-serif;
+    scroll-behavior: smooth;
+  }
+  
+  .Hidden {
+      display: none;
+  }
+  
+  .Shown {
+    display: block;
+  }
+  
+  .Header {
+    background-color: #3c3976;
+    display: block;
+    height: 51px;
+    border-bottom: 12px solid #ffcf34;
+    width: 100%;
+    max-width: 100%;
+    min-width: 1000px;
+    position: relative;
+  }
+  
+  .Topnav {
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1008px;
+    max-width: 100%;
+    min-width: 1008px;
+  }
+  
+  .Logo {
+    position: relative;
+    top: 11px;
+    margin-right: 13px;
+  }
+  
+  .Link {
+    position: relative;
+    text-decoration: none;
+    font-weight: 900;
+    text-align: left;
+    font-size: 16.5px;
+    color: #ffcf34;
+    margin-left: 14px;
+    margin-right: 14px;
+    top: 1px;
+    cursor: pointer;
+  }
+  
+  .CurrentLink {
+    position: relative;
+    text-decoration: none;
+    font-weight: 900;
+    text-align: left;
+    font-size: 16.5px;
+    color: #ffffff;
+    margin-left: 14px;
+    margin-right: 14px;
+    top: 1px;
+    cursor: pointer;
+  }

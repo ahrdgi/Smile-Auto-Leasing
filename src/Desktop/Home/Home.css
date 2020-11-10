@@ -1,0 +1,269 @@
+.HomeHeading {
+    color: #ffcf34;
+    font-weight: 900;
+    font-size: 92px;
+    position: relative;
+    top: 18px;
+}
+
+.HomeSubHeading {
+    color: #ffcf34;
+    font-weight: 900;
+    font-size: 38px;
+    position: relative;
+    top: -21px;
+}
+
+.SubText {
+    color: #FFFFFF;
+    font-weight: lighter;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 85%;
+    min-width: 85%;
+    max-width: 1000px;
+    position: relative;
+    top: -16px;
+}
+
+.LinkContainer {
+    position: relative;
+    top: 261px;
+    margin-right: auto;
+    margin-left: auto;
+    min-width: 1156px;
+}
+
+.QuoteButton {
+    cursor: pointer;
+    display: table;
+    position: absolute;
+    text-decoration: none;
+    background-color: #ffcf34;
+    border-radius: 10px;
+    color: #3c3976;
+    width: 202px;
+    height: 53px;
+    font-size: 21px;
+    font-weight: 900;
+    top: 700px;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+.LinkBoxText {
+    text-decoration: none;
+}
+
+.Link1 {
+    text-decoration: none;
+    display: inline-block;
+    background-color: #ffcf34;
+    color: #222222;
+    width: 578px;
+    height: 576px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.LinkText1_1 {
+    color: #222222;
+    font-size: 31px;
+    font-weight: 900;
+    position: relative;
+    top: 120px;
+}
+
+.LinkText1_2 {
+    color: #222222;
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 124px;
+    width: 70%;
+}
+
+.Link2 {
+    cursor: pointer;
+    display: inline-block;
+    background-color: #3c3976;
+    width: 578px;
+    height: 576px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.LinkText2_1 {
+    color: #eeeeee;
+    font-size: 31px;
+    font-weight: 900;
+    position: relative;
+    top: 120px;
+}
+
+.LinkText2_2 {
+    color: #eeeeee;
+    font-size: 18px;
+    font-weight: lighter;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: 124px;
+    width: 70%;
+}
+
+.LinkArrow {
+    height: 75px;
+    position: relative;
+    top: 150px;
+
+}
+
+.DealsSection {
+    border-top: 12px solid #ffcf34;
+    display: block;
+    height: 1670px;
+    background-color: #eeeeee;
+}
+
+.DealsHeading {
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 441px;
+}
+
+.DealsSubHeading {
+    font-size: 31px;
+    font-weight: 900;
+    color: #bbbbbb;
+    margin-top: -87px;
+}
+
+.DealsSubText {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 935px;
+    min-width: 935px;
+    max-width: 1000px;
+    margin-top: -3px;
+}
+
+.HomeListings {
+    margin-top: 60px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1008px;
+    min-height: 754px;
+}
+
+.InventoryLinkText {
+    margin-top: 12px;
+}
+
+.AboutSection {
+    display: block;
+    height: 583px;
+    background-color: #e6e6e6;
+}
+
+.WhySmile {
+    font-size: 69px;
+    font-weight: 900;
+    color: #3c3976;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    min-width: 1120px;
+    padding-top: 49px;
+    margin-bottom: 0px;
+}
+
+.WhyContainer {
+    display: table;
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 125px;
+}
+
+.WhyTable {
+    border-spacing: 50px 0px;
+}
+
+.WhyImage {
+    min-width: 252px;
+    max-width: 252px;
+    vertical-align: bottom;
+}
+
+.WhyTitle {
+    vertical-align: middle;
+    color: #adadad;
+    font-size: 23px;
+    font-weight: 900;
+    min-width: 252px;
+    max-width: 252px;
+}
+
+.HomeWhyDesc {
+    vertical-align: top;
+    color: #a0a0a0;
+    font-size: 16px;
+    font-weight: 400;
+    min-width: 252px;
+    max-width: 252px;
+}
+
+.CreditSection {
+    display: block;
+    background-color: #3c3976;
+    height: 348px;
+}
+
+.CreditSubmitText {
+    margin-top: 0;
+    color: #ffffff;
+    font-size: 33px;
+    font-weight: 900;
+    position: relative;
+    top: 78px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1026px;
+    min-width: 1026px;
+}
+
+.CreditSubmitButtonText {
+    margin-top: 13px;
+    font-weight: 700;
+}
+
+.HomeFooterText {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    min-width: 1220px;
+    color: #ffcf34;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.HIDDEN {
+    display: none;
+}
+
+.SHOWN {
+    display: initial;
+}

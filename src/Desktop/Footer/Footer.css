@@ -1,0 +1,95 @@
+.Footer {
+    height: 555px;
+    border-top: 12px solid #ffcf34;
+    background-color: #1f1f1f;
+}
+
+.FooterTitle {
+    font-size: 27px;
+    font-weight: 900;
+    color: #a9a9a9;
+    margin-top: 65px;
+}
+
+.FooterSubText {
+    font-size: 17px;
+    font-weight: 400;
+    color: #a9a9a9;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    margin-top: -2px;
+    width: 1000px;
+}
+
+.ContactLinks {
+    display: table;
+    table-layout: fixed;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 55px;
+    font-size: 16px;
+}
+
+.ContactLinkText {
+    display: inline-block;
+    position: relative;
+    top: -17px;
+    color: #adadad;
+    text-decoration: underline;
+}
+
+.ContactLink1 {
+    display: table-cell;
+    width: 300px;
+}
+
+.ContactLink2 {
+    display: table-cell;
+    width: 300px;
+}
+
+.ContactLink3 {
+    display: table-cell;
+    width: 300px;
+}
+
+.SocialLinks {
+    display: block;
+    margin-top: 7px;
+}
+
+.Facebook {
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.Instagram {
+    display: inline-block;
+    position: relative;
+    top: 3px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.Twitter {
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.Copyright {
+    color: #605e5e;
+    margin-top: 31px;
+}
+
+.CopyrightDivider {
+    filter: opacity(28%);
+    -webkit-filter: opacity(28%);
+    -moz-filter: opacity(28%);
+}
+
+.CopyrightText {
+    margin-top: 20px;
+}
