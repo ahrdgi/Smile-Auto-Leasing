@@ -1,2 +1,2 @@
 # Smile-Auto-Leasing
-A car leasing website built in React for a startup. No longer in use.
+A car leasing website built in React for a startup in 2019. No longer in use.
