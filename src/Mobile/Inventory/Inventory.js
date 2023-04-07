@@ -105,13 +105,13 @@ class Inventory extends Component {
     }
 
     componentDidMount() {
-        ReactGA.initialize('UA-127765623-1');
+        ReactGA.initialize('[REDACTED]');
         ReactGA.pageview('/inventory');
 
         window.scrollTo(0, 0);
         
         Tabletop.init({
-            key: '1mXni_N4sHEycfsAK7R4DzmYVTz81r8Wdc9xzPcXbtYM',
+            key: '[REDACTED]',
             callback: googleData => {
                 googleData.sort(function (a, b) {
                     return b.year - a.year || a.make - b.make || a.model - b.model;
